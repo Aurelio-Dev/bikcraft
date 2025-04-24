@@ -3,6 +3,7 @@
 @import "./global/header.css";
 @import "./utilities/components.css";
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
 @import "./utilities/cores.css";
 @import "../bicicletas/bicicletas-lista.css";
 

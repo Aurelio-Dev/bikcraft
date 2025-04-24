@@ -7,12 +7,8 @@
     gap: 20px;
     justify-content: space-between; /*cada item em uma ponta*/
     align-items: center;
-    box-sizing: border-box; /*fazer com que o valor do padding não some..colocar o container no valor total*/
-    padding: 20px; /*Desgrudar item*/
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-
+    padding-top: 20px ;
+    padding-bottom: 20px ;
 }
 
 .header-menu {
